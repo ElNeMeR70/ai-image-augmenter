@@ -1,0 +1,4 @@
+[project]
+name = "ai-image-augmenter"
+version = "0.1.0"
+description = "Applies affine transformations, horizontal flips, random cropping, and brightness shifts."
